@@ -1,0 +1,66 @@
+.Title {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: #fff;
+}
+
+.Title span {
+    font-size: 15px;
+}
+
+/** gifs*/
+.speed img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.speed {
+    float: left;
+}
+
+#speed {
+    font-size: 23px;
+
+    margin: 15px;
+
+
+
+}
+
+
+.Volume img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.Volume {
+    float: right;
+}
+
+#Volume {
+    font-size: 23px;
+
+    margin: 15px;
+
+
+
+}
+
+.play {
+    width: 130px;
+    font-size: 25px;
+
+}
+
+/**universal*/
+body {
+    background-size: cover;
+
+}
+
+canvas {
+    box-shadow: 5px 5px 5px rgb(19, 18, 18);
+    border: 5px solid #fff;
+    border-radius: 20px;
+}
